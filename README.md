@@ -1,1 +1,3 @@
-# archlinux_core_packages
+# Core Pakages for Archlinux 
+
+
